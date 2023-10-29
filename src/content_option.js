@@ -1,18 +1,18 @@
-const logotext = "{Initials Here}";
+const logotext = "Aneesh Kumar AS";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "Aneesh Kumar As",
+    description: "I'm Aneesh Kumar AS, a Vfx Artist and cybersecurity enthuist.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Aneesh",
     animated: {
-        first: "Technologist",
-        second: "Visionary",
-        third: "Ethical Hacker",
-        fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
+        first: "Iphone pro max",
+        second: "Pattishow rider",
+        third: "Duke kannapi",
+        fourth: "Kalippan",
+        fifth: "Gymman",
+        sixth: "ASS###E",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
     description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
