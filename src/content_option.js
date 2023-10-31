@@ -8,7 +8,7 @@ const introdata = {
     title: "Hi, I'm Aneesh",
     animated: {
         first: "Prep and paint",
-        second: "Roto",
+        second: "Roto Artist",
         third: "Animation",
         fourth: "Motion blur",
         fifth: "Vfx compositor",
@@ -132,8 +132,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
-    description: "Looking forward to hearing from you!",
+    YOUR_EMAIL: "aneeshanil2233@gmail.com",
+    description: "Whant a call !! 7736019560",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "SERVICE_ID",
@@ -142,8 +142,8 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/",
     linkedin: "https://linkedin.com/",
+    Instagram:"https://instagram.com/aneeshanil._?igshid=OGQ5ZDc2ODk2ZA==",
 };
 export {
     meta,

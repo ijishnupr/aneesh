@@ -22,9 +22,9 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.github && (
+        {socialprofils.Instagram && (
           <li>
-            <a href={socialprofils.github}>
+            <a href={socialprofils.Instagram}>
               <FaInstagram />
             </a>
           </li>
