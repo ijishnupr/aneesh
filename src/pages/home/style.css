@@ -207,7 +207,7 @@ section {
         transform: translate(-50%, 50%);
     }
 }
-@media (max-width:350px) {
+@media (max-width:450px) {
     .intro_sec .h_bg-image {
         display: none;
         
