@@ -207,6 +207,16 @@ section {
         transform: translate(-50%, 50%);
     }
 }
+@media (max-width:350px) {
+    .intro_sec .h_bg-image {
+        display: none;
+        
+    }
+    .text{
+        margin-top: 35vh;
+    }
+    
+}
 
 .intro_sec .h_bg-image .block .wrap-icon {
     font-size: 40px;
@@ -236,4 +246,3 @@ section {
 .typewriter-text {
     color: rgb(32, 236, 83);
 }
-  

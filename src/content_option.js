@@ -7,133 +7,128 @@ const meta = {
 const introdata = {
     title: "Hi, I'm Aneesh",
     animated: {
-        first: "Iphone pro max",
-        second: "Pattishow rider",
-        third: "Duke kannapi",
-        fourth: "Kalippan",
-        fifth: "Gymman",
-        sixth: "ASS###E",
+        first: "Prep and paint",
+        second: "Roto",
+        third: "Animation",
+        fourth: "Motion blur",
+        fifth: "Vfx compositor",
+        sixth: "Learner..",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
+    description: "Dedicated  and experienced VFX professional",
     your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
 };
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "I am Aneesh, a dedicated and experienced VFX professional with a passion for bringing imagination to life through visual effects. My journey in the world of VFX has been driven by a relentless pursuit of creativity, technical excellence, and a commitment to delivering exceptional visual storytelling .My career has been shaped by years of honing my skills in various aspects of visual effects, including compositing, rotoscoping, 3D modeling, animation, and dynamic simulations.I ve had the privilege of working on a diverse range of projects, from feature films to advertising campaigns, each presenting unique challenges and opportunities to push the boundaries of what is visually possible.What sets me apart is not only my technical proficiency but also my ability to work collaboratively within a team.",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
-    },
-    {
-        jobtitle: "Example 2",
-        where: "Micosoft",
-        date: "2022",
-    },
-    {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
-    },
+    jobtitle: "Example 1",
+    where: "Google",
+    date: "2023",
+},
+{
+    jobtitle: "Example 2",
+    where: "Micosoft",
+    date: "2022",
+},
+{
+    jobtitle: "Example 3",
+    where: "Meta",
+    date: "2021",
+},
 ];
 
 const skills = [{
-        name: "Python",
-    },
-    
-    {
-        name: "C",
-    },
-    
-    {
-        name: "Java",
-    },
-    
-    {
-        name: "Bash",
-    },
+    name: "Animation",
+},
 
-    {
-        name: "Powershell",
-    },
+{
+    name: "Roto",
+},
 
-    {
-        name: "Reverse Engineering",
-    },
+{
+    name: "Prep and paint",
+},
 
-    {
-        name: "Web-Exploitation",
-    },
+{
+    name: "Vfx compositor",
+},
 
-    {
-        name: "Network Exploitation",
-    },
+{
+    name: "Motion blur",
+},
+{
+    name:"Nuke",
+},
+{
+    name:"silloutte",
+}
+
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    img: "https://picsum.photos/400/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/800/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/700/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/550/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/700/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
 ];
 
 const contactConfig = {
