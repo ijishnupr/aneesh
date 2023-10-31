@@ -7,11 +7,11 @@ const meta = {
 const introdata = {
     title: "Hi, I'm Aneesh",
     animated: {
-        first: "Prep and paint",
-        second: "Roto Artist",
+        first: "Roto Artist",
+        second: "Vfx compositor",
         third: "Animation",
         fourth: "Motion blur",
-        fifth: "Vfx compositor",
+        fifth: "Prep and paint",
         sixth: "Learner..",
         // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
     },
