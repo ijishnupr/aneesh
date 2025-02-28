@@ -133,7 +133,7 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "aneeshanil2233@gmail.com",
-    description: "Whant a call !! 7736019560",
+    description: "Want a call !! 7736019560",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "SERVICE_ID",
@@ -142,7 +142,7 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    linkedin: "https://linkedin.com/",
+    linkedin: "https://www.linkedin.com/in/aneesh-anil-803a48298/",
     Instagram:"https://instagram.com/aneeshanil._?igshid=OGQ5ZDc2ODk2ZA==",
 };
 export {
