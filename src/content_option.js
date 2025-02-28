@@ -40,9 +40,7 @@ const worktimeline = [{
 },
 ];
 
-const skills = [{
-    name: "Animation",
-},
+const skills = [
 
 {
     name: "Roto",
@@ -53,12 +51,10 @@ const skills = [{
 },
 
 {
-    name: "Vfx compositor",
+    name: "Vfx compositing",
 },
 
-{
-    name: "Motion blur",
-},
+
 {
     name:"Nuke",
 },
